@@ -1,0 +1,30 @@
+# One ticker per line
+# Add new ticker symbols here; they will be picked up on the next run.
+AAPL
+MSFT
+META
+GOOG
+AMZN
+CRM
+NVDA
+AVGO
+AMD
+INTC
+MU
+NFLX
+PSKY
+WBD
+DIS
+CMCSA
+ADBE
+ORCL
+NOW
+QQQ
+SPY
+VIX
+SQQQ
+SNOW
+DDOG
+PLTR
+ASML
+LRCX

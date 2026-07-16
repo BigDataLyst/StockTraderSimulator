@@ -275,3 +275,6 @@ def main():
         # 2. Force the system thread to sleep for exactly 5 minutes (300 seconds)
         print("\n💤 Sleeping for 5 minutes until next bar interval...")
         time.sleep(300)
+
+if __name__ == "__main__":
+    main()
